@@ -10,7 +10,7 @@
 
 #include "macros.h"
 #include "mImgproc.h"
-#include "m_OpticalFlow.h"
+#include "opticalFlow.h"
 
 #define TRAINRATIO 5
 
