@@ -5,7 +5,7 @@
  *      Author: fengzh
  */
 
-#include "m_OpticalFlow.h"
+#include "OpticalFlow.h"
 
 #define USEDENSE false
 
