@@ -1,5 +1,5 @@
 /*
- * m_OpticalFlow.h
+ * OpticalFlow.h
  *
  *  Created on: May 15, 2013
  *      Author: fengzh
